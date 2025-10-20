@@ -81,59 +81,250 @@ I'm **Amir Azadmehr**, a passionate **Full Stack Developer** and **Tech Innovato
 
 ---
 
-## 📊 Development Journey
+## 🌟 Development Journey
 
 <div align="center">
 
-### 🏆 Achievement Highlights
-```
-🚀 7+ Years Experience    📦 50+ Projects Delivered    🌍 Multiple Industries
-💻 Full Stack Expertise   🔧 Enterprise Solutions     📱 Mobile Development
-```
+<!-- 3D Floating Achievement Cards -->
+<div style="perspective: 1000px; margin: 30px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
+    <!-- Card 1: Experience -->
+    <div style="
+      width: 200px; height: 120px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 15px;
+      transform: rotateY(-15deg) rotateX(5deg);
+      box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+    ">
+      <div style="font-size: 2.5em;">🚀</div>
+      <div style="font-size: 1.2em;">7+ Years</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">Experience</div>
+    </div>
 
-### 💼 Technical Expertise Overview
+    <!-- Card 2: Projects -->
+    <div style="
+      width: 200px; height: 120px;
+      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      border-radius: 15px;
+      transform: rotateY(0deg) rotateX(5deg);
+      box-shadow: 0 20px 40px rgba(240, 147, 251, 0.3);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+    ">
+      <div style="font-size: 2.5em;">📦</div>
+      <div style="font-size: 1.2em;">50+ Projects</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">Delivered</div>
+    </div>
 
-| **Backend Development** | **Frontend & Mobile** | **Enterprise Solutions** |
-|:------------------------:|:---------------------:|:------------------------:|
-| 🐍 Python & Django | ⚛️ React & JavaScript | 🏢 Odoo ERP Systems |
-| 🔧 Laravel & PHP | 📱 Flutter Development | 📊 Zoho CRM Solutions |
-| 🗄️ Database Design | 🎨 Responsive UI/UX | 🌐 WordPress Plugins |
-| 🔗 API Integration | 📊 Data Visualization | ⚙️ Business Automation |
+    <!-- Card 3: Industries -->
+    <div style="
+      width: 200px; height: 120px;
+      background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+      border-radius: 15px;
+      transform: rotateY(15deg) rotateX(5deg);
+      box-shadow: 0 20px 40px rgba(79, 172, 254, 0.3);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+    ">
+      <div style="font-size: 2.5em;">🌍</div>
+      <div style="font-size: 1.2em;">Multiple</div>
+      <div style="font-size: 0.9em; opacity: 0.9;">Industries</div>
+    </div>
 
-### 🎯 Current Focus Areas
+  </div>
+</div>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-<br><strong>Backend Systems</strong>
-<br><sub>Django • Laravel • APIs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
-<br><strong>Frontend Development</strong>
-<br><sub>React • JavaScript • UI/UX</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
-<br><strong>Mobile Apps</strong>
-<br><sub>Flutter • Cross-platform</sub>
-</td>
-</tr>
-</table>
+<!-- 3D Skill Cubes -->
+<div style="margin: 50px 0;">
+  <h3 style="
+    background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 2em;
+    margin-bottom: 30px;
+  ">💎 Technical Mastery</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    
+    <!-- Backend Cube -->
+    <div style="
+      width: 180px; height: 180px;
+      background: linear-gradient(45deg, #667eea, #764ba2);
+      border-radius: 20px;
+      transform: rotateX(10deg) rotateY(-10deg);
+      box-shadow: 
+        0 0 0 1px rgba(255,255,255,0.1),
+        0 20px 40px rgba(102, 126, 234, 0.4),
+        inset 0 1px 0 rgba(255,255,255,0.2);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; text-align: center; position: relative;
+      overflow: hidden;
+    ">
+      <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                  background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+                  transform: rotate(45deg); animation: shine 3s infinite;"></div>
+      <div style="font-size: 3em; margin-bottom: 10px;">🐍</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Backend</div>
+      <div style="font-size: 0.8em; opacity: 0.9;">Python • Django • Laravel</div>
+    </div>
 
-### 📈 Professional Growth
+    <!-- Frontend Cube -->
+    <div style="
+      width: 180px; height: 180px;
+      background: linear-gradient(45deg, #f093fb, #f5576c);
+      border-radius: 20px;
+      transform: rotateX(10deg) rotateY(0deg);
+      box-shadow: 
+        0 0 0 1px rgba(255,255,255,0.1),
+        0 20px 40px rgba(240, 147, 251, 0.4),
+        inset 0 1px 0 rgba(255,255,255,0.2);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; text-align: center; position: relative;
+      overflow: hidden;
+    ">
+      <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                  background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+                  transform: rotate(45deg); animation: shine 3s infinite 1s;"></div>
+      <div style="font-size: 3em; margin-bottom: 10px;">⚛️</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Frontend</div>
+      <div style="font-size: 0.8em; opacity: 0.9;">React • JavaScript • UI/UX</div>
+    </div>
 
-```mermaid
-graph LR
-    A[🎓 Started Journey] --> B[💻 Backend Focus]
-    B --> C[🌐 Full Stack]
-    C --> D[📱 Mobile Development]
-    D --> E[🏢 Enterprise Solutions]
-    E --> F[🚀 Tech Innovation]
-```
+    <!-- Mobile Cube -->
+    <div style="
+      width: 180px; height: 180px;
+      background: linear-gradient(45deg, #4facfe, #00f2fe);
+      border-radius: 20px;
+      transform: rotateX(10deg) rotateY(10deg);
+      box-shadow: 
+        0 0 0 1px rgba(255,255,255,0.1),
+        0 20px 40px rgba(79, 172, 254, 0.4),
+        inset 0 1px 0 rgba(255,255,255,0.2);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      color: white; text-align: center; position: relative;
+      overflow: hidden;
+    ">
+      <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; 
+                  background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+                  transform: rotate(45deg); animation: shine 3s infinite 2s;"></div>
+      <div style="font-size: 3em; margin-bottom: 10px;">📱</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Mobile</div>
+      <div style="font-size: 0.8em; opacity: 0.9;">Flutter • Cross-platform</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 3D Progress Timeline -->
+<div style="margin: 50px 0;">
+  <h3 style="
+    background: linear-gradient(45deg, #ff9a9e, #fecfef, #fecfef);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 2em;
+    margin-bottom: 30px;
+  ">🚀 Evolution Path</h3>
+  
+  <div style="
+    display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));
+    border-radius: 25px; padding: 30px; backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.1);
+  ">
+    
+    <div style="text-align: center; transform: scale(1.1);">
+      <div style="
+        width: 80px; height: 80px; border-radius: 50%;
+        background: linear-gradient(45deg, #667eea, #764ba2);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 2em; color: white; margin: 0 auto 10px;
+        box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        transform: rotateY(-15deg);
+      ">🎓</div>
+      <div style="font-weight: bold; color: #333;">Started</div>
+    </div>
+    
+    <div style="color: #667eea; font-size: 2em;">→</div>
+    
+    <div style="text-align: center; transform: scale(1.1);">
+      <div style="
+        width: 80px; height: 80px; border-radius: 50%;
+        background: linear-gradient(45deg, #f093fb, #f5576c);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 2em; color: white; margin: 0 auto 10px;
+        box-shadow: 0 10px 30px rgba(240, 147, 251, 0.4);
+        transform: rotateY(-10deg);
+      ">💻</div>
+      <div style="font-weight: bold; color: #333;">Backend</div>
+    </div>
+    
+    <div style="color: #f093fb; font-size: 2em;">→</div>
+    
+    <div style="text-align: center; transform: scale(1.1);">
+      <div style="
+        width: 80px; height: 80px; border-radius: 50%;
+        background: linear-gradient(45deg, #4facfe, #00f2fe);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 2em; color: white; margin: 0 auto 10px;
+        box-shadow: 0 10px 30px rgba(79, 172, 254, 0.4);
+        transform: rotateY(-5deg);
+      ">🌐</div>
+      <div style="font-weight: bold; color: #333;">Full Stack</div>
+    </div>
+    
+    <div style="color: #4facfe; font-size: 2em;">→</div>
+    
+    <div style="text-align: center; transform: scale(1.1);">
+      <div style="
+        width: 80px; height: 80px; border-radius: 50%;
+        background: linear-gradient(45deg, #a8edea, #fed6e3);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 2em; color: white; margin: 0 auto 10px;
+        box-shadow: 0 10px 30px rgba(168, 237, 234, 0.4);
+        transform: rotateY(0deg);
+      ">📱</div>
+      <div style="font-weight: bold; color: #333;">Mobile</div>
+    </div>
+    
+    <div style="color: #a8edea; font-size: 2em;">→</div>
+    
+    <div style="text-align: center; transform: scale(1.2);">
+      <div style="
+        width: 80px; height: 80px; border-radius: 50%;
+        background: linear-gradient(45deg, #ffecd2, #fcb69f);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 2em; color: white; margin: 0 auto 10px;
+        box-shadow: 0 15px 40px rgba(255, 236, 210, 0.5);
+        transform: rotateY(5deg);
+        animation: pulse 2s infinite;
+      ">🚀</div>
+      <div style="font-weight: bold; color: #333;">Innovation</div>
+    </div>
+    
+  </div>
+</div>
 
 </div>
+
+<style>
+@keyframes shine {
+  0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+  100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: rotateY(5deg) scale(1.2); }
+  50% { transform: rotateY(5deg) scale(1.3); }
+}
+</style>
 
 ---
 
