@@ -123,8 +123,12 @@ I'm always excited to work on:
 
 ---
 
+## 📈 GitHub Statistics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirreza-azadmehr&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
   
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
 </div>
