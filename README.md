@@ -123,12 +123,80 @@ I'm always excited to work on:
 
 ---
 
-## 📈 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+
+## 📊 GitHub Analytics & Performance
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+### 🏆 Achievement Dashboard
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📈 Repository Stats**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&custom_title=Amir's%20GitHub%20Stats" alt="GitHub Stats" />
+
+</td>
+<td align="center" width="50%">
+
+**🔥 Coding Streak**
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+### 💻 Language Mastery & Activity
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🌐 Top Languages**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages" />
+
+</td>
+<td align="center" width="50%">
+
+**📊 Contribution Graph**
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirreza-azadmehr&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
+
+### 🎯 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=amirreza-azadmehr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+### ⚡ Quick Stats
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
+
+<div style="text-align: center; margin: 10px;">
+<img src="https://img.shields.io/badge/Total%20Commits-1000+-00D9FF?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+</div>
+
+<div style="text-align: center; margin: 10px;">
+<img src="https://img.shields.io/badge/Public%20Repos-50+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+</div>
+
+<div style="text-align: center; margin: 10px;">
+<img src="https://img.shields.io/badge/Years%20Active-7+-BF91F3?style=for-the-badge&logo=calendar&logoColor=white" alt="Years Active" />
+</div>
+
+<div style="text-align: center; margin: 10px;">
+<img src="https://img.shields.io/badge/Languages-10+-38BDAE?style=for-the-badge&logo=code&logoColor=white" alt="Languages" />
+</div>
+
+</div>
+
+</div>
+
 </div>
