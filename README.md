@@ -81,19 +81,58 @@ I'm **Amir Azadmehr**, a passionate **Full Stack Developer** and **Tech Innovato
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 Development Journey
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+### 🏆 Achievement Highlights
+```
+🚀 7+ Years Experience    📦 50+ Projects Delivered    🌍 Multiple Industries
+💻 Full Stack Expertise   🔧 Enterprise Solutions     📱 Mobile Development
+```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirreza-azadmehr&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
+### 💼 Technical Expertise Overview
+
+| **Backend Development** | **Frontend & Mobile** | **Enterprise Solutions** |
+|:------------------------:|:---------------------:|:------------------------:|
+| 🐍 Python & Django | ⚛️ React & JavaScript | 🏢 Odoo ERP Systems |
+| 🔧 Laravel & PHP | 📱 Flutter Development | 📊 Zoho CRM Solutions |
+| 🗄️ Database Design | 🎨 Responsive UI/UX | 🌐 WordPress Plugins |
+| 🔗 API Integration | 📊 Data Visualization | ⚙️ Business Automation |
+
+### 🎯 Current Focus Areas
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<br><strong>Backend Systems</strong>
+<br><sub>Django • Laravel • APIs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+<br><strong>Frontend Development</strong>
+<br><sub>React • JavaScript • UI/UX</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
+<br><strong>Mobile Apps</strong>
+<br><sub>Flutter • Cross-platform</sub>
+</td>
+</tr>
+</table>
+
+### 📈 Professional Growth
+
+```mermaid
+graph LR
+    A[🎓 Started Journey] --> B[💻 Backend Focus]
+    B --> C[🌐 Full Stack]
+    C --> D[📱 Mobile Development]
+    D --> E[🏢 Enterprise Solutions]
+    E --> F[🚀 Tech Innovation]
+```
+
 </div>
 
 ---
