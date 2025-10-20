@@ -84,12 +84,16 @@ I'm **Amir Azadmehr**, a passionate **Full Stack Developer** and **Tech Innovato
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirreza-azadmehr&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
 </div>
 
 ---
