@@ -1,51 +1,211 @@
-# Amir Azadmehr
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Backend+Specialist" alt="Typing SVG" />
-</div>
 
-## 👨‍💻 About
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Amir%20Azadmehr&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=51&descAlign=62)
 
-Full Stack Developer with **7+ years** of experience building scalable web and mobile applications. Passionate about clean code, innovative solutions, and continuous learning.
-
-## 🛠️ Tech Stack
-
-**Backend:** Python • Django • Laravel • PHP  
-**Frontend:** React • JavaScript • TypeScript  
-**Mobile:** Flutter • Cross-platform development  
-**Database:** PostgreSQL • MySQL • Redis  
-**Tools:** Docker • Git • AWS • Linux  
-
-## 🚀 Expertise
-
-- **Web Applications** → RESTful APIs, microservices, enterprise solutions
-- **Mobile Development** → Cross-platform apps with Flutter
-- **ERP/CRM Systems** → Odoo & Zoho customizations
-- **WordPress** → Custom plugins and performance optimization
-
-## 📊 3D Contribution Graph
-
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Backend+Specialist;7%2B+Years+Experience;Clean+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🤝 Connect
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-azadmehr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Amir@twincoders.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://azadmehrco.com)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amirreza-azadmehr&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/amirreza-azadmehr?color=blue&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/amirreza-azadmehr?color=yellow&style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Open to collaboration on innovative projects</i>
+
+## 👨‍💻 About Me
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+**Full Stack Developer** with **7+ years** of experience building scalable web and mobile applications. Passionate about clean code, innovative solutions, and continuous learning.
+
+🚀 **50+ Projects Delivered** | 🌍 **Remote Collaboration Expert** | 💡 **Innovation Focused**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+
+</div>
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(255, 154, 158, 0.37);">
+
+**🔧 Backend:** Python • Django • Laravel • PHP • Node.js  
+**⚛️ Frontend:** React • JavaScript • TypeScript • Vue.js  
+**📱 Mobile:** Flutter • React Native • Cross-platform  
+**🗄️ Database:** PostgreSQL • MySQL • MongoDB • Redis  
+**☁️ DevOps:** Docker • AWS • Linux • Git • CI/CD  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Expertise & Services
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+```javascript
+const expertise = {
+  backend: ["Django", "Laravel", "FastAPI"],
+  frontend: ["React", "Vue.js", "TypeScript"],
+  apis: ["RESTful", "GraphQL", "Microservices"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"]
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+```dart
+class MobileExpertise {
+  final List<String> platforms = [
+    "Flutter", "React Native", 
+    "iOS", "Android"
+  ];
+  final String specialty = "Cross-platform";
+}
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise Solutions
+- **ERP Systems** → Odoo customizations
+- **CRM Solutions** → Zoho implementations  
+- **Business Automation** → Workflow optimization
+- **Integration Services** → Third-party APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX & Performance
+- **Responsive Design** → Mobile-first approach
+- **Performance Optimization** → Speed & SEO
+- **WordPress** → Custom plugins & themes
+- **E-commerce** → WooCommerce solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 3D Contribution Visualization
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
+
+</div>
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(102, 126, 234, 0.37);">
+
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-azadmehr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza-azadmehr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-azadmehr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirreza-azadmehr&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="25">
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirreza-azadmehr&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/amirreza-azadmehr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:Amir@twincoders.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722)](https://azadmehrco.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/amirreza_azadmehr)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/amirreza-azadmehr/amirreza-azadmehr/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+
+**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+<img src="https://komarev.com/ghpvc/?username=amirreza-azadmehr&color=blueviolet&style=flat-square&label=Profile+Views" />
+
 </div>
